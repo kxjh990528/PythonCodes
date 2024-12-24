@@ -12,16 +12,19 @@ else:
 """
 
 # 案例1：获取用户年龄
-age = int(input("请输入您的年龄:"))
+# age = int(input("请输入您的年龄:"))
+#
+# # 判断是否进入成年电影
+# if age >= 18:
+#     print("进入成人电影院！")
+#     print("欧美区")
+#     print("日韩区")
+#     print("国产区")
+# else:
+#     print("进入青少年模式！")
+#     print("科幻冒险类")
+#     print("益智早教类")
+#     print("科普记录类")
+#
+# print('程序结束')
 
-# 判断是否进入成年电影
-if age >= 18:
-    print("进入成人电影院！")
-    print("欧美区")
-    print("日韩区")
-    print("国产区")
-else:
-    print("进入青少年模式！")
-    print("科幻冒险类")
-    print("益智早教类")
-    print("科普记录类")
